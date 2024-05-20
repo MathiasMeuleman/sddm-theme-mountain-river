@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Mountain River
+Description=A river carving out mountians, to help you get your day started with a beuatiful view!
+Author=Mathias Meuleman
+Copyright=Copyright (C) 2024 Mathias Meuleman
+License=GPL-3.0
+Type=sddm-theme
+Version=1.2
+Website=
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=mountain-river
+Theme-API=2.11
